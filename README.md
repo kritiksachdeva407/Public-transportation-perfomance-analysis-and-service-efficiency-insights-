@@ -1,0 +1,2 @@
+# Public-transportation-perfomance-analysis-and-service-efficiency-insights-
+Public Transportation Performance Analysis is a Python-based project that analyzes public transport data to understand delays, punctuality, route performance, and travel patterns. Using Pandas, NumPy, and Streamlit, it provides data visualization and an interactive dashboard to support better transport planning and service efficiency.
